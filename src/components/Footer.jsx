@@ -31,10 +31,10 @@ export default function Footer() {
           </span>
           <span className="hidden sm:block text-slate-300 dark:text-slate-700">·</span>
           <a
-            href="mailto:omprakashyadavkone@gmail.com"
+            href="mailto:YOUR_EMAIL_HERE"
             className="hover:text-brand-600 dark:hover:text-brand-400 transition-colors"
           >
-            YOUR_EMAIL_HERE
+            omprakashyadavkone@gmail.com
           </a>
         </div>
 
